@@ -1,6 +1,4 @@
-Here is live preview of this project
 
-[Live Preview](https://vegkart-track-app.netlify.app) 
 
 # Delivery Track
 
@@ -90,24 +88,6 @@ delivery-track/
 - **services/**: API service calls.
 - **utils/**: Utility functions.
 
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
 
 
 
